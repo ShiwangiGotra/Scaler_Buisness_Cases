@@ -12,7 +12,7 @@
 </tr>
 <tr>
     <td>1</td>
-    <td><a href="" target="_blank">SQL</a></td>
+    <td><a href="https://github.com/ShiwangiGotra/Scaler-DSML/tree/main/Scaler_Business_cases" target="_blank">SQL</a></td>
     <td>Target Corporation</td>
     <td>Completed</td>
     <td>100%</td>

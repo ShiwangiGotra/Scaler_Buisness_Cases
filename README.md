@@ -12,17 +12,17 @@
 </tr>
 <tr>
     <td>1</td>
-    <td><a href="https://github.com/ShiwangiGotra/Scaler-DSML/tree/main/Scaler_Business_cases" target="_blank">SQL</a></td>
+    <td><a href="https://github.com/ShiwangiGotra/Scaler_Buisness_Cases" target="_blank">SQL</a></td>
     <td>Target Corporation</td>
     <td>Completed</td>
     <td>100%</td>
 </tr>
 <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>    
+    <td>2</td>
+    <td><a href="https://github.com/ShiwangiGotra/Scaler_Buisness_Cases" target="_blank">Data Analysis and Visualisation</a></td>
+    <td>Netflix</td>
+    <td>Completed</td>
+    <td>89%</td>    
 </tr>
 </table>
 <h4>Author : Shiwangi Gotra </h4>

@@ -24,6 +24,13 @@
     <td>Completed</td>
     <td>89%</td>    
 </tr>
+    <tr>
+    <td>3</td>
+    <td><a href="https://github.com/ShiwangiGotra/Scaler_Buisness_Cases" target="_blank">Descriptive Statistics & Probability</a></td>
+    <td>Aerofit</td>
+    <td>Completed</td>
+    <td>93%</td>    
+</tr>
 </table>
 <h4>Author : Shiwangi Gotra </h4>
 </body>
